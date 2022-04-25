@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/us234/v2ray-cat",
-  "repository": "https://github.com/us234/v2ray-cat",
+  "website": "https://github.com/sdeer55/bugugh",
+  "repository": "https://github.com/sdeer55/bugugh",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
